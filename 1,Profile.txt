@@ -1,0 +1,23 @@
+1,Profile
+2,Anything add
+3,Project description
+4,Resume prefer-java, selenium everything.
+
+*the project focus developed by timescan only testing outsource undertaken by my company.
+
+
+5,waterfalls model using our company.
+
+6,we need to know defect raising role, then manual testing.
+
+*SDLC-first requirement then create testcase and test scenario the i will give for review once if it is ok i will execute if any bug came i will use defect tool then raising the defect.
+
+* Automation framework using BDD then i will create the test scenario if any bug came i will publics to the team.
+
+* task assigner: team leader    
+
+7,FRS document(Functional Requirement specification) - Based on this Testcase & Test scenario 
+
+ F&B Pos software:
+------------------
+*For supermarket billing we are using in this software it will maintenance everything, like for one protect what is the price in that how much we got from that protect, bill for vendor management ,offer everything it will check. this is the desktop based software. This is for particular market only.
